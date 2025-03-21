@@ -30,7 +30,7 @@ namespace ProductApps
 
         private void calculateButton_Click(object sender, RoutedEventArgs e)
         {
-            double price, totalPayment, totalCharge, quantity;
+            double price, totalPayment, totalCharge, quantity, totalWrap;
 
             price = double.Parse(priceTextBox.Text);
             quantity = double.Parse(quantityTextBox.Text);
@@ -41,6 +41,8 @@ namespace ProductApps
             totalCharge = totalPayment + 25;
             totalChargeTextBlock.Text = totalCharge.ToString("C");
 
+            totalWrap = totalCharge + 5;
+            totalWrapTextBlock.Text = totalWrap.ToString("C");
 
         }
 
