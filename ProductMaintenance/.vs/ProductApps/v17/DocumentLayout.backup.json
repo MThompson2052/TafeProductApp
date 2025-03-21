@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MyWrap\\TafeProductApp\\ProductMaintenance\\",
+  "WorkspaceRootPath": "C:\\MyGST\\TafeProductApp\\ProductMaintenance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46FA31E3-20AC-4055-A0DC-87855C4DDD51}|ProductApps\\ProductApps.csproj|C:\\MyWrap\\TafeProductApp\\ProductMaintenance\\productapps\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{46FA31E3-20AC-4055-A0DC-87855C4DDD51}|ProductApps\\ProductApps.csproj|c:\\mygst\\tafeproductapp\\productmaintenance\\productapps\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{46FA31E3-20AC-4055-A0DC-87855C4DDD51}|ProductApps\\ProductApps.csproj|solutionrelative:productapps\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46FA31E3-20AC-4055-A0DC-87855C4DDD51}|ProductApps\\ProductApps.csproj|c:\\mywrap\\tafeproductapp\\productmaintenance\\productapps\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46FA31E3-20AC-4055-A0DC-87855C4DDD51}|ProductApps\\ProductApps.csproj|C:\\MyGST\\TafeProductApp\\ProductMaintenance\\productapps\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46FA31E3-20AC-4055-A0DC-87855C4DDD51}|ProductApps\\ProductApps.csproj|solutionrelative:productapps\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\MyWrap\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\MyGST\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductApps\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\MyWrap\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\MyGST\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProductApps\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T00:05:18.427Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\MyWrap\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\MyGST\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProductApps\\MainWindow.xaml",
-              "ToolTip": "C:\\MyWrap\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml",
+              "ToolTip": "C:\\MyGST\\TafeProductApp\\ProductMaintenance\\ProductApps\\MainWindow.xaml",
               "RelativeToolTip": "ProductApps\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-21T00:00:00.294Z",
